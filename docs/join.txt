@@ -1,0 +1,18 @@
+title: Join
+example: <div class="join"><button class="btn join-item">Button</button> <button class="btn join-item">Button</button> <button class="btn join-item">Button</button></div>
+---
+title: Group items vertically
+example: <div class="join join-vertical"><button class="btn join-item">Button</button> <button class="btn join-item">Button</button> <button class="btn join-item">Button</button></div>
+---
+title: Responsive: it's vertical on small screen and horizontal on large screen
+example: <div class="join join-vertical lg:join-horizontal"><button class="btn join-item">Button</button> <button class="btn join-item">Button</button> <button class="btn join-item">Button</button></div>
+---
+title: With extra elements in the group
+example: <div class="join"><div><div><input class="input input-bordered join-item w-[5.3rem] md:w-52" placeholder="Search"></div></div> <select class="select select-bordered join-item w-[5.8rem] md:w-auto"><option disabled selected>Filter</option><option>Sci-fi</option><option>Drama</option><option>Action</option></select> <div class="indicator"><span class="indicator-item badge badge-secondary">new</span> <button class="btn join-item">Search</button></div></div>
+---
+title: Custom border radius
+example: <div class="join"><input class="input input-bordered join-item w-36 lg:w-52" placeholder="Email"> <button class="btn join-item rounded-r-full">Subscribe</button></div>
+---
+title: Join radio inputs with btn style
+example: <div class="join"><input class="join-item btn" type="radio" name="options" aria-label="Radio 1"> <input class="join-item btn" type="radio" name="options" aria-label="Radio 2"> <input class="join-item btn" type="radio" name="options" aria-label="Radio 3"></div>
+---

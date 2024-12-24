@@ -1,0 +1,42 @@
+title: Tooltip
+example: <div class="my-6"><div class="tooltip" data-tip="hello"><button class="btn">Hover me</button></div></div>
+---
+title: Force open
+example: <div class="my-6"><div class="tooltip tooltip-open" data-tip="hello"><button class="btn">Force open</button></div></div>
+---
+title: Top
+example: <div class="my-6"><div class="tooltip tooltip-open tooltip-top" data-tip="hello"><button class="btn">Top</button></div></div>
+---
+title: Bottom
+example: <div class="my-6"><div class="tooltip tooltip-open tooltip-bottom" data-tip="hello"><button class="btn">Bottom</button></div></div>
+---
+title: Left
+example: <div class="my-6"><div class="tooltip tooltip-open tooltip-left" data-tip="hello"><button class="btn">Left</button></div></div>
+---
+title: Right
+example: <div class="my-6"><div class="tooltip tooltip-open tooltip-right" data-tip="hello"><button class="btn">Right</button></div></div>
+---
+title: Primary color
+example: <div class="my-6"><div data-tip="primary" class="tooltip tooltip-open tooltip-primary"><button class="btn btn-primary">primary</button></div></div>
+---
+title: Secondary color
+example: <div class="my-6"><div data-tip="secondary" class="tooltip tooltip-open tooltip-secondary"><button class="btn btn-secondary">secondary</button></div></div>
+---
+title: Accent color
+example: <div class="my-6"><div data-tip="accent" class="tooltip tooltip-open tooltip-accent"><button class="btn btn-accent">accent</button></div></div>
+---
+title: Info color
+example: <div class="my-6"><div data-tip="info" class="tooltip tooltip-open tooltip-info"><button class="btn btn-info">info</button></div></div>
+---
+title: Success color
+example: <div class="my-6"><div data-tip="success" class="tooltip tooltip-open tooltip-success"><button class="btn btn-success">success</button></div></div>
+---
+title: Warning color
+example: <div class="my-6"><div data-tip="warning" class="tooltip tooltip-open tooltip-warning"><button class="btn btn-warning">warning</button></div></div>
+---
+title: Error color
+example: <div class="my-6"><div data-tip="error" class="tooltip tooltip-open tooltip-error"><button class="btn btn-error">error</button></div></div>
+---
+title: Responsive tooltip. only show for large screen
+example: <div class="my-6"><div class="lg:tooltip" data-tip="hello"><button class="btn">Hover me</button></div></div>
+---

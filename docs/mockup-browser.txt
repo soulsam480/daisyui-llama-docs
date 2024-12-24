@@ -1,0 +1,6 @@
+title: browser mockup with border
+example: <div class="border mockup-browser border-base-300 w-full"><div class="mockup-browser-toolbar"><div class="input border border-base-300">https://daisyui.com</div></div> <div class="flex justify-center px-4 py-16 border-t border-base-300">Hello!</div></div>
+---
+title: browser mockup with background color
+example: <div class="border mockup-browser bg-base-300 w-full"><div class="mockup-browser-toolbar"><div class="input">https://daisyui.com</div></div> <div class="flex justify-center px-4 py-16 bg-base-200">Hello!</div></div>
+---

@@ -1,0 +1,24 @@
+title: Dialog modal
+example: <button class="btn">open modal</button> <dialog id="my_modal_1" class="modal"><div class="modal-box"><h3 class="font-bold text-lg">Hello!</h3> <p class="py-4">Press ESC key or click the button below to close</p> <div class="modal-action"><form method="dialog"><button class="btn">Close</button></form></div></div></dialog>
+---
+title: Dialog modal, closes when clicked outside
+example: <button class="btn">open modal</button> <dialog id="my_modal_2" class="modal"><div class="modal-box"><h3 class="font-bold text-lg">Hello!</h3> <p class="py-4">Press ESC key or click outside to close</p></div> <form method="dialog" class="modal-backdrop"><button>close</button></form></dialog>
+---
+title: Dialog modal with a close button at corner
+example: <button class="btn">open modal</button> <dialog id="my_modal_3" class="modal"><div class="modal-box"><form method="dialog"><button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button></form> <h3 class="font-bold text-lg">Hello!</h3> <p class="py-4">Press ESC key or click on ✕ button to close</p></div></dialog>
+---
+title: Dialog modal with custom width
+example: <button class="btn">open modal</button> <dialog id="my_modal_4" class="modal"><div class="modal-box w-11/12 max-w-5xl"><h3 class="font-bold text-lg">Hello!</h3> <p class="py-4">Click the button below to close</p> <div class="modal-action"><form method="dialog"><button class="btn">Close</button></form></div></div></dialog>
+---
+title: Responsive
+example: <button class="btn">open modal</button> <dialog id="my_modal_5" class="modal modal-bottom sm:modal-middle"><div class="modal-box"><h3 class="font-bold text-lg">Hello!</h3> <p class="py-4">Press ESC key or click the button below to close</p> <div class="modal-action"><form method="dialog"><button class="btn">Close</button></form></div></div></dialog>
+---
+title: Modal using label + hidden checkbox
+example: <label for="my_modal_6" class="btn">open modal</label>
+---
+title: Modal that closes when clicked outside
+example: <label for="my_modal_7" class="btn">open modal</label>
+---
+title: Modal using anchor link
+example: <a href="#my_modal_8" class="btn" rel="external">open modal</a>
+---

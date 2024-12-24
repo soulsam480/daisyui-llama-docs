@@ -1,0 +1,6 @@
+title: window mockup with border
+example: <div class="border mockup-window border-base-300 w-full"><div class="flex justify-center px-4 py-16 border-t border-base-300">Hello!</div></div>
+---
+title: window mockup with background color
+example: <div class="border mockup-window bg-base-300 w-full"><div class="flex justify-center px-4 py-16 bg-base-200">Hello!</div></div>
+---

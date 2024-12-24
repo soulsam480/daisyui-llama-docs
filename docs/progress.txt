@@ -1,0 +1,27 @@
+title: Progress
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress w-56" value="0" max="100"></progress> <progress class="progress w-56" value="10" max="100"></progress> <progress class="progress w-56" value="40" max="100"></progress> <progress class="progress w-56" value="70" max="100"></progress> <progress class="progress w-56" value="100" max="100"></progress></div>
+---
+title: Primary color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-primary w-56" value="0" max="100"></progress> <progress class="progress progress-primary w-56" value="10" max="100"></progress> <progress class="progress progress-primary w-56" value="40" max="100"></progress> <progress class="progress progress-primary w-56" value="70" max="100"></progress> <progress class="progress progress-primary w-56" value="100" max="100"></progress></div>
+---
+title: Secondary color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-secondary w-56" value="0" max="100"></progress> <progress class="progress progress-secondary w-56" value="10" max="100"></progress> <progress class="progress progress-secondary w-56" value="40" max="100"></progress> <progress class="progress progress-secondary w-56" value="70" max="100"></progress> <progress class="progress progress-secondary w-56" value="100" max="100"></progress></div>
+---
+title: Accent color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-accent w-56" value="0" max="100"></progress> <progress class="progress progress-accent w-56" value="10" max="100"></progress> <progress class="progress progress-accent w-56" value="40" max="100"></progress> <progress class="progress progress-accent w-56" value="70" max="100"></progress> <progress class="progress progress-accent w-56" value="100" max="100"></progress></div>
+---
+title: Success color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-success w-56" value="0" max="100"></progress> <progress class="progress progress-success w-56" value="10" max="100"></progress> <progress class="progress progress-success w-56" value="40" max="100"></progress> <progress class="progress progress-success w-56" value="70" max="100"></progress> <progress class="progress progress-success w-56" value="100" max="100"></progress></div>
+---
+title: Info color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-info w-56" value="0" max="100"></progress> <progress class="progress progress-info w-56" value="10" max="100"></progress> <progress class="progress progress-info w-56" value="40" max="100"></progress> <progress class="progress progress-info w-56" value="70" max="100"></progress> <progress class="progress progress-info w-56" value="100" max="100"></progress></div>
+---
+title: Warning color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-warning w-56" value="0" max="100"></progress> <progress class="progress progress-warning w-56" value="10" max="100"></progress> <progress class="progress progress-warning w-56" value="40" max="100"></progress> <progress class="progress progress-warning w-56" value="70" max="100"></progress> <progress class="progress progress-warning w-56" value="100" max="100"></progress></div>
+---
+title: Error color
+example: <div class="flex flex-col gap-2 items-center"><progress class="progress progress-error w-56" value="0" max="100"></progress> <progress class="progress progress-error w-56" value="10" max="100"></progress> <progress class="progress progress-error w-56" value="40" max="100"></progress> <progress class="progress progress-error w-56" value="70" max="100"></progress> <progress class="progress progress-error w-56" value="100" max="100"></progress></div>
+---
+title: Indeterminate (without value)
+example: <progress class="progress w-56"></progress>
+---

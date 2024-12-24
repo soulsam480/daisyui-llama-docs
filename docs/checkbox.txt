@@ -1,0 +1,42 @@
+title: Checkbox
+example: <input type="checkbox" checked class="checkbox">
+---
+title: With label and form-control
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox"></label></div>
+---
+title: Primary color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-primary"></label></div>
+---
+title: Secondary color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-secondary"></label></div>
+---
+title: Accent color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-accent"></label></div>
+---
+title: Success color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-success"></label></div>
+---
+title: Warning color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-warning"></label></div>
+---
+title: Info color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-info"></label></div>
+---
+title: Error color
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" checked class="checkbox checkbox-error"></label></div>
+---
+title: Sizes
+example: <div class="flex flex-col items-center gap-2"><input type="checkbox" checked class="checkbox checkbox-xs"> <input type="checkbox" checked class="checkbox checkbox-sm"> <input type="checkbox" checked class="checkbox checkbox-md"> <input type="checkbox" checked class="checkbox checkbox-lg"></div>
+---
+title: Disabled
+example: <input type="checkbox" disabled class="checkbox">
+---
+title: Disabled and checked
+example: <input type="checkbox" disabled class="checkbox" checked>
+---
+title: Indeterminate
+example: <input type="checkbox" class="checkbox">
+---
+title: Checkbox with custom colors
+example: <input type="checkbox" checked class="checkbox border-orange-400 checked:border-indigo-800 [--chkbg:theme(colors.indigo.600)] [--chkfg:orange]"> <input type="checkbox" checked class="checkbox [--chkbg:oklch(var(--a))] [--chkfg:oklch(var(--p))]">
+---

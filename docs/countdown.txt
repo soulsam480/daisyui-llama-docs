@@ -1,0 +1,21 @@
+title: Countdown
+example: <span class="countdown"><span style="--value:59;"></span></span>
+---
+title: Large text
+example: <span class="countdown font-mono text-6xl"><span style="--value:59;"></span></span>
+---
+title: Clock countdown
+example: <span class="font-mono text-2xl countdown"><span style="--value:10;"></span>h <span style="--value:24;"></span>m <span style="--value:59;"></span>s</span>
+---
+title: Clock countdown with colons
+example: <span class="font-mono text-2xl countdown"><span style="--value:10;"></span>: <span style="--value:24;"></span>: <span style="--value:59;"></span></span>
+---
+title: Large text with labels
+example: <div class="flex gap-5"><div><span class="font-mono text-4xl countdown"><span style="--value:15;"></span></span> days</div> <div><span class="font-mono text-4xl countdown"><span style="--value:10;"></span></span> hours</div> <div><span class="font-mono text-4xl countdown"><span style="--value:24;"></span></span> minutes</div> <div><span class="font-mono text-4xl countdown"><span style="--value:59;"></span></span> sec</div></div>
+---
+title: Large text with labels under
+example: <div class="grid grid-flow-col gap-5 text-center auto-cols-max"><div class="flex flex-col"><span class="font-mono text-5xl countdown"><span style="--value:15;"></span></span> days</div> <div class="flex flex-col"><span class="font-mono text-5xl countdown"><span style="--value:10;"></span></span> hours</div> <div class="flex flex-col"><span class="font-mono text-5xl countdown"><span style="--value:24;"></span></span> min</div> <div class="flex flex-col"><span class="font-mono text-5xl countdown"><span style="--value:59;"></span></span> sec</div></div>
+---
+title: In boxes
+example: <div class="grid grid-flow-col gap-5 text-center auto-cols-max"><div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content"><span class="font-mono text-5xl countdown"><span style="--value:15;"></span></span> days</div> <div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content"><span class="font-mono text-5xl countdown"><span style="--value:10;"></span></span> hours</div> <div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content"><span class="font-mono text-5xl countdown"><span style="--value:24;"></span></span> min</div> <div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content"><span class="font-mono text-5xl countdown"><span style="--value:59;"></span></span> sec</div></div>
+---

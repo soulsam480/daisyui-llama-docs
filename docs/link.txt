@@ -1,0 +1,33 @@
+title: Link
+example: <button class="link">I'm a simple link</button>
+---
+title: Link
+example: <p>Tailwind CSS resets the style of links by default. <br> Add "link" class to make it look like a <button class="link">normal link</button> again.</p>
+---
+title: Primary color
+example: <button class="link link-primary">I'm a simple link</button>
+---
+title: Secondary color
+example: <button class="link link-secondary">I'm a simple link</button>
+---
+title: Accent color
+example: <button class="link link-accent">I'm a simple link</button>
+---
+title: Neutral color
+example: <button class="link link-neutral">I'm a simple link</button>
+---
+title: Success color
+example: <button class="link link-success">I'm a simple link</button>
+---
+title: Info color
+example: <button class="link link-info">I'm a simple link</button>
+---
+title: Warning color
+example: <button class="link link-warning">I'm a simple link</button>
+---
+title: Error color
+example: <button class="link link-error">I'm a simple link</button>
+---
+title: Show underline only on hover
+example: <button class="link link-hover">I'm a simple link</button>
+---

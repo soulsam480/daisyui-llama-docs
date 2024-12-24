@@ -1,0 +1,36 @@
+title: Artboard size 1
+example: <div class="artboard phone-1 artboard-demo">320×568</div>
+---
+title: Artboard size 2
+example: <div class="artboard phone-2 artboard-demo">375×667</div>
+---
+title: Artboard size 3
+example: <div class="artboard phone-3 artboard-demo">414×736</div>
+---
+title: Artboard size 4
+example: <div class="artboard phone-4 artboard-demo">375×812</div>
+---
+title: Artboard size 5
+example: <div class="artboard phone-5 artboard-demo">414×896</div>
+---
+title: Artboard size 6
+example: <div class="artboard phone-6 artboard-demo">320×1024</div>
+---
+title: Artboard horizontal size 1 (568×320)
+example: <div class="artboard artboard-horizontal phone-1 artboard-demo">568×320</div>
+---
+title: Artboard horizontal size 2 (667×375)
+example: <div class="artboard artboard-horizontal phone-2 artboard-demo">667×375</div>
+---
+title: Artboard horizontal size 3 (736×414)
+example: <div class="artboard artboard-horizontal phone-3 artboard-demo">736×414</div>
+---
+title: Artboard horizontal size 4 (812×375)
+example: <div class="artboard artboard-horizontal phone-4 artboard-demo">812×375</div>
+---
+title: Artboard horizontal size 5 (896×414)
+example: <div class="artboard artboard-horizontal phone-5 artboard-demo">896×414</div>
+---
+title: Artboard horizontal size 6 (1024×320)
+example: <div class="artboard artboard-horizontal phone-6 artboard-demo">1024×320</div>
+---

@@ -1,0 +1,27 @@
+title: Toggle
+example: <input type="checkbox" class="toggle" checked>
+---
+title: With label and form-control
+example: <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" class="toggle" checked></label></div>
+---
+title: Checkboxes with brand colors
+example: <div class="flex flex-col"><div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" class="toggle toggle-primary" checked></label></div> <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" class="toggle toggle-secondary" checked></label></div> <div class="form-control w-52"><label class="cursor-pointer label"><span class="label-text">Remember me</span> <input type="checkbox" class="toggle toggle-accent" checked></label></div></div>
+---
+title: Checkboxes with state colors
+example: <div class="flex flex-col items-center gap-2"><input type="checkbox" class="toggle toggle-success" checked> <input type="checkbox" class="toggle toggle-warning" checked> <input type="checkbox" class="toggle toggle-info" checked> <input type="checkbox" class="toggle toggle-error" checked></div>
+---
+title: Sizes
+example: <div class="flex flex-col items-center gap-2"><input type="checkbox" class="toggle toggle-xs" checked> <input type="checkbox" class="toggle toggle-sm" checked> <input type="checkbox" class="toggle toggle-md" checked> <input type="checkbox" class="toggle toggle-lg" checked></div>
+---
+title: Disabled
+example: <input type="checkbox" class="toggle" disabled>
+---
+title: Disabled and checked
+example: <input type="checkbox" class="toggle" disabled checked>
+---
+title: Indeterminate
+example: <input type="checkbox" class="toggle">
+---
+title: Toggle with custom color
+example: <input type="checkbox" class="toggle [--tglbg:yellow] bg-blue-500 hover:bg-blue-700 border-blue-500" checked>
+---
